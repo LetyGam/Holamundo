@@ -1,0 +1,60 @@
+/*Asi se agregan comentarios en css*/
+/*Se usa cssgradient.io que nos ayuda a elegir un estilo de color y nos da el codigo que podemos copiar y pegar*/
+body {
+    background: rgb(131,58,180); /*Usando Cssgradiant.io es color de la pagina*/
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,221,1) 50%, rgba(252,176,69,1) 100%); 
+    color:rgb(3, 36, 65); /*Color de letra*/
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal; /*Tipo de fuentes, aqui copie codigo de google font para tipo de fuente*/
+}
+        /*Cambiar color de titulos o parrafos*/
+    h1, h2, p{
+        color: beige; 
+    }
+
+    a{
+        color: darkblue; /*cambiar color de links*/
+    }
+
+  .img1{
+    width: 1000px;
+    margin: 50px;
+    border-style: solid;
+    border-width: 25px;
+    border-color: black;
+    padding: 0px;
+    border-radius: 40px;
+
+  }
+
+  .img2{
+    width: 400px;
+    margin: 50px;
+    border-style: solid;
+    border-width: 25px;
+    border-color: black;
+    padding: 0px;
+    border-radius: 40px;
+  }
+
+  .img3{
+    width: 330px;
+    margin: 50px;
+    border-style: solid;
+    border-width: 25px;
+    border-color: black;
+    padding: 0px;
+    border-radius: 40px;
+  }
+
+  .img4{
+    width: 1000px;
+    margin: 50px;
+    border-style: solid;
+    border-width: 25px;
+    border-color: black;
+    padding: 0px;
+    border-radius: 40px;
+  }
