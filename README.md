@@ -22,3 +22,6 @@ Este es el primer proyecto que realice desde HTML y CSS3
 
 ### Vista Previa del proyecto
 
+![Demo](imagenes/gorillaz_screen.png)
+
+### Pagina creada durante bootcamp (https://tecnolochicas.mx/)
